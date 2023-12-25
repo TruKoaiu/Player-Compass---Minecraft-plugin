@@ -1,0 +1,5 @@
+me\trukoaiu\playerscompass\PlayersCompass.class
+me\trukoaiu\playerscompass\utility\CreateInventory.class
+me\trukoaiu\playerscompass\commands\PlayerCompass.class
+me\trukoaiu\playerscompass\listeners\InventoryClick.class
+me\trukoaiu\playerscompass\listeners\CompassTarget.class

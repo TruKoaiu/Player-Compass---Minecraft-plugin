@@ -1,0 +1,7 @@
+name: PlayersCompass
+version: '${project.version}'
+main: me.trukoaiu.playerscompass.PlayersCompass
+api-version: '1.19'
+commands:
+  tracker:
+    description: Opens menu with heads of online player, on choose the player get compass that find selected player.
