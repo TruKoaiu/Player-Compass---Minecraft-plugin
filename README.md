@@ -7,7 +7,7 @@ This plugin is different from other manhunt plugins because of customization. Yo
 * Don't have config file at the moment, and not expected in the near future (if interested, contact me on discord, i will make it happen if i see interest).
 * I don't thing there are any bugs, if you experience some let me know please.
 
-## Instalation
+## Instalation and Command
 1. Find "PlayersCompass-1.1.jar" file .
 * Should be in main folder, but if not, then look up in "target" folder.
 2) Put this file in "plugins" foler.
